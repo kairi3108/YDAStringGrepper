@@ -15,5 +15,5 @@ FOUNDATION_EXPORT double YDAStringGrepperVersionNumber;
 FOUNDATION_EXPORT const unsigned char YDAStringGrepperVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <YDAStringGrepper/PublicHeader.h>
-
-
+#import "YDAStringGrepperImpl.h"
+#import "YDAStringGrepperLineObject.h"
